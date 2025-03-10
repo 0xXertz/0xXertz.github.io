@@ -1,1 +1,70 @@
-# empty
+- key: Company
+  value: 0xXertz
+
+- key: Department
+  value: Engineering
+
+- key: Project
+  value: X-Labs Security Monitor
+
+- key: Description
+  value: >
+    Internal security monitoring platform focused on anomaly detection, SIEM log aggregation, 
+    and automated response workflows.
+
+- key: Repository
+  value:
+    - key: Private Repo
+      value: xertz-labs (Internal only)
+    - key: Access Level
+      value: Restricted to security and engineering teams
+    - key: Notes
+      value: Do not share repo details externally. Credentials should never be stored in commits.
+
+- key: Key Deadlines
+  value:
+    - key: Staging Deployment
+      value: May 15, 2025
+    - key: Beta Testing Start
+      value: June 1, 2025
+    - key: Production Launch
+      value: July 20, 2025
+
+- key: Infrastructure
+  value:
+    - key: Cloud Provider
+      value: AWS
+    - key: Database
+      value: PostgreSQL
+    - key: CI/CD
+      value: GitHub Actions
+    - key: Logging & Monitoring
+      value: Prometheus & Loki
+
+- key: Compliance & Security
+  value:
+    - key: MFA Enforcement
+      value: Required for all employees by June 1, 2025
+    - key: Data Retention Policy
+      value: Logs older than 180 days will be migrated to cold storage
+
+- key: Internal Notes
+  value:
+    - key: Repo Cleanup
+      value: Some old scripts in **xertz-labs** need review before deletion.
+    - key: Pending Review
+      value: Reminder to check previous code dumps for sensitive info.
+    - key: Documentation Updates
+      value: A few internal notes were misplaced in a gist—make sure critical documentation stays within the repo.
+
+- key: Contact
+  value:
+    - key: Security Team
+      value: security@0xxertz.com
+      url: "mailto:security@0xxertz.com"
+    - key: IT Support
+      value: it-support@0xxertz.com
+      url: "mailto:it-support@0xxertz.com"
+    - key: General Queries
+      value: contact@0xxertz.com
+      url: "mailto:contact@0xxertz.com"
